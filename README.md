@@ -1,0 +1,2 @@
+# TSPN-TRUST-TECH
+Integrating TRUST-TECH with GEKKO ADOPT
