@@ -8,4 +8,4 @@ Different initializations of nodes’ positions and neighborhoods are also prese
 
 Another code is written to generate random locations and neighborhoods for these different number of nodes that are used as a common input for ADOPT and ADOPT with TRUST-TECH method. 
 
-Final Solutions for different runs are also provided. 
+Images of final solutions for different runs are also provided. 
